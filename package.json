@@ -1,0 +1,27 @@
+{
+  "name": "augmented-gate",
+  "version": "1.0.0",
+  "description": "Live coding in the augmented real",
+  "main": "index.js",
+  "dependencies": {
+    "ar.js": "github:jeromeetienne/AR.js",
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3",
+    "three": "^0.86.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "main": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/augmented-gate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/augmented-gate/issues"
+  },
+  "homepage": "https://github.com/watilde/augmented-gate#readme"
+}
